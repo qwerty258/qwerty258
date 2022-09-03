@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nothing.
 - 📫 You can reach me via email.
 
-Key words that I know:
+Key words that I understands:
 
  * ABBYY
  * ADC
@@ -22,6 +22,7 @@ Key words that I know:
  * cURL
  * Debian
  * debianrootfs
+ * DeviceTree
  * DRAW.IO
  * DXVA
  * E-Prime
