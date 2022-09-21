@@ -9,6 +9,7 @@ Key words that I understands:
  * ADC
  * Adobe Acrobat
  * AM335x
+ * ansible
  * apt
  * Arduino
  * C
@@ -29,6 +30,8 @@ Key words that I understands:
  * EPUB
  * ESP-IDF
  * ESP32
+ * EXT2/3/4
+ * FAT12/16/32
  * FFmpeg
  * FileZilla
  * FreeRTOS
@@ -49,18 +52,22 @@ Key words that I understands:
  * linux
  * live555
  * macOS
+ * mDNS
  * MFC
  * Microsoft Windows
  * Microsoft Word/Powerpoint/Excel/Visio
  * MQTT
  * mysql
  * nodejs
+ * NVME
+ * PCIe
  * phpmyadmin
  * pip
  * PWM
  * Python
  * QT
  * QUIC
+ * RAID
  * RK3399
  * ROS
  * RTCP
@@ -68,6 +75,8 @@ Key words that I understands:
  * RTP
  * RTSP
  * Rust
+ * SAS
+ * SCSI
  * Serial Port/TTL/RS232/RS422/RS485
  * SIP
  * SPI
