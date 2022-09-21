@@ -31,6 +31,7 @@ Key words that I understands:
  * ESP-IDF
  * ESP32
  * EXT2/3/4
+ * F2FS
  * FAT12/16/32
  * FFmpeg
  * FileZilla
