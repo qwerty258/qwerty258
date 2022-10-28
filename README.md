@@ -207,6 +207,15 @@ index-url = https://mirrors.aliyun.com/pypi/simple/
 trusted-host=mirrors.aliyun.com
 ```
 
+`.ssh/config`
+
+```
+Host github.com
+     HostName github.com
+     User git
+     ProxyCommand connect -S 127.0.0.1:1080 %h %p
+```
+
 <!---
 qwerty258/qwerty258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
