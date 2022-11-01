@@ -195,6 +195,8 @@ set autoindent
 [core]
 	editor = vim
 	autocrlf = false
+[init]
+	defaultBranch = main
 ```
 
 `pip.conf`:
