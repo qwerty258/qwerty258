@@ -105,7 +105,7 @@
 
 # Personal configs
 
-`.bashrc`:
+## `.bashrc`:
 
 ```bash
 # history
@@ -119,7 +119,7 @@ if [ -f ~/.bash_aliases ]; then
 fi
 ```
 
-`.bash_aliases`:
+## `.bash_aliases`:
 
 ```bash
 # enable color support of ls and also add handy aliases
@@ -148,7 +148,7 @@ alias rmeml='rm *.eml'
 alias trash='gio trash'
 ```
 
-`.vimrc`:
+## `.vimrc`:
 
 ```vim
 " Use Vim settings, rather then Vi settings (much better!).
@@ -189,7 +189,7 @@ set smarttab
 set autoindent
 ```
 
-`.gitconfig`:
+## `.gitconfig`:
 
 ```ini
 [core]
@@ -199,7 +199,7 @@ set autoindent
 	defaultBranch = main
 ```
 
-`pip.conf`:
+## `pip.conf`:
 
 ```ini
 [global]
@@ -209,13 +209,22 @@ index-url = https://mirrors.aliyun.com/pypi/simple/
 trusted-host=mirrors.aliyun.com
 ```
 
-`.ssh/config`
+## `.ssh/config`
 
 ```
 Host github.com
      HostName github.com
      User git
      ProxyCommand connect -S 127.0.0.1:1080 %h %p
+```
+
+## Windows 11 Right Menu Revert Back
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32]
+@="blank"
 ```
 
 <!---
