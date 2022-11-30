@@ -26,7 +26,8 @@
  * Debian
  * debianrootfs
  * DeviceTree
- * DRAW.IO
+ * DNS/DNS over TLS/DNS over HTTPS
+ * Draw.io
  * DXVA
  * E-Prime
  * EPUB
@@ -88,6 +89,7 @@
  * STM32
  * STM32CubeMX
  * SVN
+ * systemd/systemd-networkd/systemd-resolved/systemd-timesyncd
  * TCP
  * Thunderbird
  * u-boot
