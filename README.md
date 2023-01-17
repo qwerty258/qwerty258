@@ -106,6 +106,9 @@
  * Zigbee
 
 [Personal Configs](./personal-configs.md)
+[cheatsheet-ip](./cheatsheet-ip.md)
+[cheatsheet-ipmitool](./cheatsheet-ipmitool.md)
+[cheatsheet-vim](./cheatsheet-vim.md)
 
 <!---
 qwerty258/qwerty258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
