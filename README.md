@@ -105,9 +105,10 @@
  * zephyr
  * Zigbee
 
-[Personal Configs](./personal-configs.md)
 [cheatsheet-ip](./cheatsheet-ip.md)
+
 [cheatsheet-ipmitool](./cheatsheet-ipmitool.md)
+
 [cheatsheet-vim](./cheatsheet-vim.md)
 
 <!---
