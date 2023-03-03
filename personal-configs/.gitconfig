@@ -1,7 +1,0 @@
-[core]
-    editor = vim
-    autocrlf = false
-[init]
-    defaultBranch = main
-[pager]
-    branch = false
