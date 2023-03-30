@@ -63,6 +63,7 @@
  * MQTT
  * mysql
  * nodejs
+ * nRF24L01+
  * NVME
  * PCIe
  * phpmyadmin
