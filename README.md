@@ -14,8 +14,8 @@
  * ansible
  * apt
  * Arduino
- * C
- * C++
+ * C Programming Language
+ * C++ Programming Language
  * Calibre
  * CAN
  * CANOpen/CiA 401/CiA 402
@@ -58,8 +58,8 @@
  * macOS
  * mDNS
  * MFC
+ * Microsoft Outlook/Word/Powerpoint/Excel/Visio
  * Microsoft Windows
- * Microsoft Word/Powerpoint/Excel/Visio
  * MQTT
  * mysql
  * nodejs
@@ -69,7 +69,7 @@
  * phpmyadmin
  * pip
  * PWM
- * Python
+ * Python Programming Language
  * QT
  * QUIC
  * RAID
@@ -100,11 +100,12 @@
  * VLC
  * VSCode
  * WEB CGI
- * wget
  * Wireshark
- * youtube-dl
- * zephyr
  * Zigbee
+ * wget
+ * youtube-dl
+ * yt-dlp
+ * zephyr
 
 <!---
 qwerty258/qwerty258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
